@@ -1,2 +1,5 @@
 steamserver.net
 s-21.lanzog.com
+lkpnas.icu
+ddns.lkpnas.icu
+ddnsv6.lkpnas.icu
