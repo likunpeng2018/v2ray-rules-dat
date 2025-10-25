@@ -4,3 +4,4 @@ lkpnas.icu
 ddns.lkpnas.icu
 ddnsv6.lkpnas.icu
 ddnsv6.lkpnas.online
+aod.itunes.apple.com
